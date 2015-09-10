@@ -1,2 +1,6 @@
 # Meeting-5
-Intro to GUI building, OOP Topics Part II
+- Object Oriented Programming, Part II
+  - Abstract Classes
+  - Enumerations
+  - Magic & Static Methods
+- Introduction to GUI building
